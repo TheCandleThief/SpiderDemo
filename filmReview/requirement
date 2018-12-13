@@ -1,0 +1,5 @@
+python==2.7
+bs4==4.6.3  -- HTML/XML解析库
+lxml==4.2.5 -- 配合BeautifulSoup使用的解析器
+requests==2.21.0
+unicodecsv==0.14.1
